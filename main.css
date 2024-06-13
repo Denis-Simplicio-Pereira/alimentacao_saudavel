@@ -39,6 +39,10 @@ body {
     width: 320px;
 }
 
+.tab-pane img{
+    height: 200px;
+    width: 300px;
+}
 
 #sobre-o-restaurante,
 #cardapio {
